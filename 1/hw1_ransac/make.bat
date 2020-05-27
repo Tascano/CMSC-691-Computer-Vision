@@ -1,0 +1,1 @@
+gcc -O3 -o ransac main.c ./utils/image_tools.c ./utils/ransac.c ./utils/data_types.c -lm
